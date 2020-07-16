@@ -1,0 +1,1 @@
+"use strict";var searchParams=new URLSearchParams(window.location.search);"true"===searchParams.get("fcc-test")&&document.querySelector("nav>header").classList.add("with-fcc-test");
